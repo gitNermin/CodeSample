@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ShatterableGlass
+  - Bouncy
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platform
+  - Player
+  - Obstacle
+  - Pickup
+  - Bounderies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2463796673
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ForeGround
+    uniqueID: 2379402863
+    locked: 0
+  - name: Player
+    uniqueID: 1945217657
+    locked: 0
